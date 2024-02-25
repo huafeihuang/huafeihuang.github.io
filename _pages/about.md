@@ -20,14 +20,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# About Me
+
 Huafei Huang is the Assistant Research Fellow in DUT Artificial Intelligence Institute. 
 <!-- He received the BSc degree in Internet of Things (IoT) Engineering from the North University of China (NUC), Taiyuan, China, in 2020, and reveived the MSc degree in Software Engineering from Dalian University of Technology (DUT), Dalian, China. -->
 He received the BSc. degree in Internet of Things Engineering from North University of China, China, in 2020, and the MSc degree in Software Engineering from Dalian University of Technology (DUT), China, in 2023. He has 5 papers published, 6 papers under review or revision, and filed 5 patents (1 granted). He has been honored with several academic awards, including the Chinese National Encouragement Scholarship sponsored by the Ministry of Education, Outstanding Graduate of the College, The First-class All-rounder Scholarship, and the Most Popular Article Award in 2023 CAAI National Conference on Big Data & Social Computing (BDSC).
 
 
+<span class='anchor' id='-experiences'></span>
 
 # Experiences
-<span class='anchor' id='-experiences'></span>
 <ul style = "width:100%">
   <li style = "display:flex;justify-content:space-between;">
     <div class="left" style="box-sizing: border-box;">
@@ -55,14 +57,15 @@ He received the BSc. degree in Internet of Things Engineering from North Univers
   </li>
 </ul> 
 
+<span class='anchor' id='-research-interests'></span>
 
 # Research Interests
-<span class='anchor' id='-research-interests'></span>
 - Data Mining, Anomaly Detection, Knowledge Graphs, Fairness in Graph Learning
 - Multi-modal Graph Learning, Large Language Models 
 
-# Honors and Awards
 <span class='anchor' id='-honors-and-awards'></span>
+
+# Honors and Awards
 
 - Most Popular Article Award, CAAI National Conference on Big Data & Social Computing (BDSC2023)
 - Outstanding Graduate of the College, North University of China University (2020)
@@ -86,8 +89,9 @@ He received the BSc. degree in Internet of Things Engineering from North Univers
 - "Mining Implicit Relations Among Image Channels for Few-Shot Semantic Segmentation", The 19th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC2022), Haikou, China, Dec. 15-18, 2022. 
 - "Network Representation Learning Based on High-order Structure and Attention Mechanism", The 6th China National Conference on Big Data & Social Computing (BDSC2021), Chongqing, China, Dec. 9-11, 2021.
 
-# Publications 
 <span class='anchor' id='-publications'></span>
+
+# Publications 
 
 <ul style="list-style-type: circle;">
   <li>Shuo Yu, <u><strong>Huafei Huang</strong></u>, Yanming Shen, Pengfei Wang, Qiang Zhang, Ke Sun, Honglong Chen. 2024. Formulating and Representing Multi-agent Systems with Hypergraphs. IEEE Transactions on Neural Networks and Learning Systems.(Accepted) DOI: 10.1109/TNNLS.2024.3368111</li>
