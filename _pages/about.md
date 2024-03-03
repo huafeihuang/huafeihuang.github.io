@@ -24,7 +24,7 @@ redirect_from:
 
 Huafei Huang is the Assistant Research Fellow in DUT Artificial Intelligence Institute. 
 <!-- He received the BSc degree in Internet of Things (IoT) Engineering from the North University of China (NUC), Taiyuan, China, in 2020, and reveived the MSc degree in Software Engineering from Dalian University of Technology (DUT), Dalian, China. -->
-He received the BSc. degree in Internet of Things Engineering from North University of China, China, in 2020, and the MSc degree in Software Engineering from Dalian University of Technology (DUT), China, in 2023. He has 5 papers published, 6 papers under review or revision, and filed 5 patents (1 granted). He has been honored with several academic awards, including the Chinese National Encouragement Scholarship sponsored by the Ministry of Education, Outstanding Graduate of the College, The First-class All-rounder Scholarship, and the Most Popular Article Award in 2023 CAAI National Conference on Big Data & Social Computing (BDSC).
+He received the BSc. degree in Internet of Things Engineering from North University of China, China, in 2020, and the MSc degree in Software Engineering from Dalian University of Technology (DUT), China, in 2023. He has 6 papers published, 5 papers under review or revision, and filed 5 patents (1 granted). He has been honored with several academic awards, including the Chinese National Encouragement Scholarship sponsored by the Ministry of Education, Outstanding Graduate of the College, The First-class All-rounder Scholarship, and the Most Popular Article Award in 2023 CAAI National Conference on Big Data & Social Computing (BDSC).
 
 
 <span class='anchor' id='-experiences'></span>
