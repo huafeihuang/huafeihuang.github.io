@@ -24,7 +24,7 @@ redirect_from:
 
 Huafei Huang is the Assistant Research Fellow in DUT Artificial Intelligence Institute. 
 <!-- He received the BSc degree in Internet of Things (IoT) Engineering from the North University of China (NUC), Taiyuan, China, in 2020, and reveived the MSc degree in Software Engineering from Dalian University of Technology (DUT), Dalian, China. -->
-He received the BSc. degree in Internet of Things Engineering from North University of China, China, in 2020, and the MSc degree in Software Engineering from Dalian University of Technology (DUT), China, in 2023. He has 6 papers published, 5 papers under review or revision, and filed 5 patents (1 granted). He has been honored with several academic awards, including the Chinese National Encouragement Scholarship sponsored by the Ministry of Education, Outstanding Graduate of the College, The First-class All-rounder Scholarship, and the Most Popular Article Award in 2023 CAAI National Conference on Big Data & Social Computing (BDSC).
+He received the BSc. degree in Internet of Things Engineering from North University of China, China, in 2020, and the MSc degree in Software Engineering from Dalian University of Technology (DUT), China, in 2023. He has 7 papers published and he has been honored with several academic awards, including the Chinese National Encouragement Scholarship sponsored by the Ministry of Education, Outstanding Graduate of the College, The First-class All-rounder Scholarship, and the Most Popular Article Award in 2023 CAAI National Conference on Big Data & Social Computing (BDSC).
 
 
 <span class='anchor' id='-experiences'></span>
@@ -61,7 +61,7 @@ He received the BSc. degree in Internet of Things Engineering from North Univers
 
 # Research Interests
 - Data Mining, Anomaly Detection, Knowledge Graphs, Fairness in Graph Learning
-- Multi-modal Graph Learning, Large Language Models 
+- Multi-modal Graph Learning, Large Language Models, Education
 
 <span class='anchor' id='-honors-and-awards'></span>
 
@@ -94,6 +94,8 @@ He received the BSc. degree in Internet of Things Engineering from North Univers
 # Publications 
 
 <ul style="list-style-type: circle;">
+  <li>Renqiang Luo, <u><strong>Huafei Huang</strong></u>, Shuo Yu, Xiuzhen Zhang, and Feng Xia. 2024. FairGT: A Fairness-aware Graph Transformer
+ <strong>Proceedings of the International Joint Conference on Artificial  Intelligence (IJCAI)</strong>. <a href="https://ieeexplore.ieee.org/document/10460319">(arxiv)</a></li>
   <li><u><strong>Huafei Huang</strong></u>, Xu Yuan, Shuo Yu, Wenhong Zhao, Osama Alfarraj, Amr Tolba, and Feng Xia. 2024. Few-shot Semantic Segmentation for Consumer Electronics: An Inter-class Relation Mining Approach. <strong>IEEE Transactions on Consumer Electronics</strong>. 1-1, DOI: 10.1109/TCE.2024.3373630. <a href="https://ieeexplore.ieee.org/document/10460319">(PDF)</a></li>
   <li>Shuo Yu, <u><strong>Huafei Huang</strong></u>, Yanming Shen, Pengfei Wang, Qiang Zhang, Ke Sun, Honglong Chen. 2024. Formulating and Representing Multi-agent Systems with Hypergraphs. <strong>IEEE Transactions on Neural Networks and Learning Systems</strong>. 1-15, DOI: 10.1109/TNNLS.2024.3368111. <a href="https://ieeexplore.ieee.org/document/10449457">(PDF)</a> </li>
   <li><u><strong>Huafei Huang</strong></u>, Feng Ding, Fengyi Zhang, Yingbo Wang, Ciyuan Peng, Ahsan Shehzad, Qihang Lei, Lili Cong, and Shuo Yu. 2023. Knowledge Graph Completion via Subgraph Topology Augmentation. <strong>In Chinese National Conference on Social Media Processing (SMP)</strong>. 14-29, DOI: 10.1007/978-981-99-7596-9_2.  <a href="https://link.springer.com/chapter/10.1007/978-981-99-7596-9_2">(PDF)</a> </li>
