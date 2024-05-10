@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Huafei Huang"
   avatar           : "images/bio_photo.jpg"
-  bio              : "Assistant Research Fellow"
+  # bio              : "Assistant Research Fellow"
   location         : "Dalian, China"
   employer         :
   pubmed           : 
