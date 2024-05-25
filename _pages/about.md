@@ -69,15 +69,16 @@ Huafei Huang received the BSc. degree in Internet of Things Engineering from Nor
 
 # Honors and Awards
 
-<!-- - Most Popular Article Award, CAAI National Conference on Big Data & Social Computing (BDSC2023) -->
-- Outstanding Graduate of the College, North University of China University (2020)
+- Most Popular Article Award, CAAI National Conference on Big Data & Social Computing (BDSC2023)
+- Outstanding Graduate of the College, North University of China (2020)
 - The Second-class All-rounder Scholarship (2019,2020)
 - National Encouragement Scholarship (Sponsored by the Ministry of Education) (2018,2019)
-- The Honorable Mention in the MCM/ICM (2019)
-- The First Prize in The Blue Bridge Cup Competition (Shanxi Province) (2019)
 - The Second Prize in The Blue Bridge Cup Competition (National) (2019)
 - The First Prize of the CUMCM (Shanxi Province) (2018)
 - The First-class All-rounder Scholarship (2017,2018)
+
+<!-- - The Honorable Mention in the MCM/ICM (2019) -->
+<!-- - The First Prize in The Blue Bridge Cup Competition (Shanxi Province) (2019) -->
 
 # Invited Reviewer
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
