@@ -46,7 +46,7 @@ Huafei Huang received the BSc. degree in Internet of Things Engineering from Nor
       Dalian University of Technology
     </div>
   	<div class="right" style="box-sizing: border-box;">
-      M.Sc. (School of Softwafe), 2020-2023
+      M.Sc. (School of Software), 2020-2023
     </div>
   </li>
   <!-- <li style = "display:flex;justify-content:space-between;">
