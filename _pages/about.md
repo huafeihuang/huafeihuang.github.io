@@ -22,7 +22,7 @@ redirect_from:
 
 # About Me
 
-Huafei Huang received the BSc. degree in Internet of Things Engineering from North University of China, China, in 2020, and the MSc degree in Software Engineering from Dalian University of Technology (DUT), China, in 2023. He received <a href='https://scholar.google.com/citations?user=_PlsOz8AAAAJ'><strong><span id='total_cit'>50</span></strong></a> citations to his works.
+Huafei Huang received the BSc. degree in Internet of Things Engineering from North University of China, China, in 2020, and the MSc degree in Software Engineering from Dalian University of Technology (DUT), China, in 2023. He received <a href='https://scholar.google.com/citations?user=_PlsOz8AAAAJ'><strong><span id='total_cit'>63</span></strong></a> citations to his works.
 <!-- Huafei Huang is the Assistant Research Fellow in DUT Artificial Intelligence Institute.  -->
 <!-- He received the BSc degree in Internet of Things (IoT) Engineering from the North University of China (NUC), Taiyuan, China, in 2020, and reveived the MSc degree in Software Engineering from Dalian University of Technology (DUT), Dalian, China. -->
 <!-- He received the BSc. degree in Internet of Things Engineering from North University of China, China, in 2020, and the MSc degree in Software Engineering from Dalian University of Technology (DUT), China, in 2023.  -->
@@ -82,6 +82,7 @@ Huafei Huang received the BSc. degree in Internet of Things Engineering from Nor
 
 # Invited Reviewer
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+- IEEE Transactions on Intelligent Transportation Systems (TITS)
 - Humanities and Social Sciences Communications (HSSCOMMS)
 - International Journal of Communication Systems (IJCS)
 - Frontiers in Big Data
