@@ -35,7 +35,7 @@ Huafei Huang received the BSc. degree in Internet of Things Engineering from Nor
 <ul style = "width:100%">
   <li style = "display:flex;justify-content:space-between;">
     <div class="left" style="box-sizing: border-box;">
-      North University of China
+      North University of China (NUC)
     </div>
   	<div class="right" style="box-sizing: border-box;">
       B.Sc. (School of BigData), 2016-2020
@@ -43,7 +43,7 @@ Huafei Huang received the BSc. degree in Internet of Things Engineering from Nor
   </li>
   <li style = "display:flex;justify-content:space-between;">
     <div class="left" style="box-sizing: border-box;">
-      Dalian University of Technology
+      Dalian University of Technology (DUT)
     </div>
   	<div class="right" style="box-sizing: border-box;">
       M.Sc. (School of Software), 2020-2023
@@ -57,6 +57,14 @@ Huafei Huang received the BSc. degree in Internet of Things Engineering from Nor
       Assistant Research Fellow, 2023-now
     </div>
   </li> -->
+  <li style = "display:flex;justify-content:space-between;">
+    <div class="left" style="box-sizing: border-box;">
+      University of South Australia (UniSA)
+    </div>
+  	<div class="right" style="box-sizing: border-box;">
+      Ph.D. Student (STEM), 2024-current
+    </div>
+  </li>
 </ul> 
 
 <span class='anchor' id='-research-interests'></span>
