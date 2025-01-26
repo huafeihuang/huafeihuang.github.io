@@ -81,8 +81,8 @@ Huafei Huang is currently a PhD student at STEM, University of South Australia (
 - Outstanding Graduate of the College, North University of China (2020)
 - The Second-class All-rounder Scholarship (2019,2020)
 - National Encouragement Scholarship (Sponsored by the Ministry of Education) (2018,2019)
-<!-- - The Second Prize in The Blue Bridge Cup Competition (National) (2019)
-- The First Prize of the CUMCM (Shanxi Province) (2018) -->
+<!-- - The Second Prize in The Blue Bridge Cup Competition (National) (2019)-->
+<!--- The First Prize of the CUMCM (Shanxi Province) (2018) -->
 - The First-class All-rounder Scholarship (2017,2018)
 
 <!-- - The Honorable Mention in the MCM/ICM (2019) -->
