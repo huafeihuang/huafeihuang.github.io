@@ -94,7 +94,8 @@ Huafei Huang is currently a PhD student at STEM, University of South Australia (
 - International Journal of Communication Systems (IJCS)
 - Frontiers in Big Data
 - Heliyon 
-- TheWebConf (WWW)
+- ACM Web Conference (WWW/TheWebConf)
+- ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
 
 # Conference Talks
 - "Knowledge Graph Completion via Subgraph Topology Augmentation", The 11th Chinese National Conference on Social Media Processing (SMP2023), Hefei, China, Nov. 23-26, 2023. 
