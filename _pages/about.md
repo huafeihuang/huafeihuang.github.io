@@ -22,7 +22,7 @@ redirect_from:
 
 # About Me
 
-Huafei Huang is currently a PhD student at STEM, University of South Australia (UniSA). Before that, he received a BSc. degree in Internet of Things Engineering from North University of China (NUC), in 2020, and the MSc degree in Software Engineering from Dalian University of Technology (DUT), in 2023. He received <a href='https://scholar.google.com/citations?user=_PlsOz8AAAAJ'><strong><span id='total_cit'>100</span></strong></a> citations to his works.
+Huafei Huang is currently a PhD student at STEM, University of South Australia (UniSA). Before that, he received a BSc. degree in Internet of Things Engineering from North University of China (NUC), in 2020, and the MSc degree in Software Engineering from Dalian University of Technology (DUT), in 2023. He received <a href='https://scholar.google.com/citations?user=_PlsOz8AAAAJ'><strong><span id='total_cit'>120</span></strong></a> citations to his works.
 <!-- Huafei Huang is the Assistant Research Fellow in DUT Artificial Intelligence Institute.  -->
 <!-- He received the BSc degree in Internet of Things (IoT) Engineering from the North University of China (NUC), Taiyuan, China, in 2020, and reveived the MSc degree in Software Engineering from Dalian University of Technology (DUT), Dalian, China. -->
 <!-- He received the BSc. degree in Internet of Things Engineering from North University of China, China, in 2020, and the MSc degree in Software Engineering from Dalian University of Technology (DUT), China, in 2023.  -->
@@ -104,10 +104,17 @@ Huafei Huang is currently a PhD student at STEM, University of South Australia (
 
 <span class='anchor' id='-publications'></span>
 
+# Preprints
+<ul style="list-style-type: circle;">
+  <li>Renqiang Luo, Ziqi Xu, Xikun Zhang, Qing Qing, <u><strong>Huafei Huang</strong></u>, Enyan Dai, Zhe Wang, and Bo Yang. 2025. Fairness in Graph Learning Augmented with Machine Learning: A Survey. <strong>arXiv</strong> arXiv preprint arXiv: 2504.21296, DOI: 10.48550/arXiv.2504.21296.  <a href="https://arxiv.org/abs/2504.21296">(PDF)</a> </li>
+</ul>
+
+
 # Publications 
 
 <ul style="list-style-type: circle;">
-  <li>Ciyuan Peng, <u><strong>Huafei Huang</strong></u>, Tianqi Guo, Chengxuan Meng, Jingjing Zhou, Wenhong Zhao, Ruwan Tennakoon, and Feng Xia. 2025. Joint Structural-Functional Brain Graph Transformer. <strong>ACM Transactions on Intelligent Systems and Technology.</strong> DOI: 10.1145/3729243.  <a href="https://dl.acm.org/doi/10.1145/3729243">(PDF)</a> </li>
+
+  <li>Ciyuan Peng, <u><strong>Huafei Huang</strong></u>, Tianqi Guo, Chengxuan Meng, Jingjing Zhou, Wenhong Zhao, Ruwan Tennakoon, and Feng Xia. 2025. Joint Structural-Functional Brain Graph Transformer. <strong>ACM Transactions on Intelligent Systems and Technology.</strong> 16(3): 1-15, DOI: 10.1145/3729243.  <a href="https://dl.acm.org/doi/10.1145/3729243">(PDF)</a> </li>
   <li>Shuo Yu, Zhuoyang Han, Feng Ding, <u><strong>Huafei Huang</strong></u>, Renqiang Luo, Guoqing Han, and Feng Xia. 2025. Multi-type Social Patterns-based Graph Learning. <strong>Neurocomputing.</strong> 637: 130039, DOI: 10.1016/j.neucom.2025.130039.  <a href="https://www.sciencedirect.com/science/article/pii/S0925231225007118">(PDF)</a> </li>
   <li>Renqiang Luo, <u><strong>Huafei Huang</strong></u>, Ivan Lee, Chengpei Xu, Jianzhong Qi, and Feng Xia. 2025.  FairGP: A Scalable and Fair Graph Transformer Using Graph Partitioning. <strong>Proceedings of the AAAI Conference on Artificial Intelligence (AAAI).</strong> 12319-12327, DOI: 10.1609/aaai.v39i12.33342 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33342">(PDF)</a> <a href="https://github.com/LuoRenqiang/FairGP">(CODE)</a></li>
   <li>Renqiang Luo, <u><strong>Huafei Huang</strong></u>, Shuo Yu, Zhuoyang Han, Jiayuan He, Xiuzhen Zhang, and Feng Xia. 2024. FUGNN: Harmonizing Fairness and Utility in Graph Neural Networks <strong>Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD).</strong> 2072-2081, DOI: 10.1145/3637528.3671834. <a href="https://dl.acm.org/doi/10.1145/3637528.3671834">(PDF)</a> <a href="https://github.com/LuoRenqiang/FUGNN">(CODE)</a></li>
