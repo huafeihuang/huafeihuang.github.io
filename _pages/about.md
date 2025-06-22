@@ -92,6 +92,8 @@ Huafei Huang is currently a PhD student at STEM, University of South Australia (
 - ACM Transactions on Intelligent Systems and Technology (TIST)
 - Humanities and Social Sciences Communications (HSSCOMMS)
 - International Journal of Communication Systems (IJCS)
+- Expert Systems With Applications (ESWA)
+- Neurocomputing
 - Frontiers in Big Data
 - Heliyon 
 - ACM Web Conference (WWW/TheWebConf)
