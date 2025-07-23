@@ -22,7 +22,7 @@ redirect_from:
 
 # About Me
 
-Huafei Huang is currently a PhD student at STEM, University of South Australia (UniSA). Before that, he received a BSc. degree in Internet of Things Engineering from North University of China (NUC), in 2020, and the MSc degree in Software Engineering from Dalian University of Technology (DUT), in 2023. He received <a href='https://scholar.google.com/citations?user=_PlsOz8AAAAJ'><strong><span id='total_cit'>120</span></strong></a> citations to his works.
+Huafei Huang is currently a PhD student at STEM, University of South Australia (UniSA). Before that, he received a BSc. degree in Internet of Things Engineering from North University of China (NUC), in 2020, and the MSc degree in Software Engineering from Dalian University of Technology (DUT), in 2023. He received <a href='https://scholar.google.com/citations?user=_PlsOz8AAAAJ'><strong><span id='total_cit'>138</span></strong></a> citations to his works.
 <!-- Huafei Huang is the Assistant Research Fellow in DUT Artificial Intelligence Institute.  -->
 <!-- He received the BSc degree in Internet of Things (IoT) Engineering from the North University of China (NUC), Taiyuan, China, in 2020, and reveived the MSc degree in Software Engineering from Dalian University of Technology (DUT), Dalian, China. -->
 <!-- He received the BSc. degree in Internet of Things Engineering from North University of China, China, in 2020, and the MSc degree in Software Engineering from Dalian University of Technology (DUT), China, in 2023.  -->
@@ -70,9 +70,9 @@ Huafei Huang is currently a PhD student at STEM, University of South Australia (
 <span class='anchor' id='-research-interests'></span>
 
 # Research Interests
-- Data Mining, Anomaly Detection, Knowledge Graphs, Fairness in Graph Learning 
-- Graph Learning, Large Language Models, Education 
-- Computer Science
+- Data Mining, Anomaly Detection, Knowledge Graphs, Fairness AI
+- Graph Learning, Large Language Models, Medical AI
+
 <span class='anchor' id='-honors-and-awards'></span>
 
 # Honors and Awards
@@ -93,11 +93,14 @@ Huafei Huang is currently a PhD student at STEM, University of South Australia (
 - Humanities and Social Sciences Communications (HSSCOMMS)
 - International Journal of Communication Systems (IJCS)
 - Expert Systems With Applications (ESWA)
+- Engineering Applications of Artificial Intelligence (EAAI)
 - Neurocomputing
 - Frontiers in Big Data
 - Heliyon 
 - ACM Web Conference (WWW/TheWebConf)
 - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
+- AAAI Conference on Artificial Intelligence (AAAI)
+
 
 # Conference Talks
 - "Knowledge Graph Completion via Subgraph Topology Augmentation", The 11th Chinese National Conference on Social Media Processing (SMP2023), Hefei, China, Nov. 23-26, 2023. 
