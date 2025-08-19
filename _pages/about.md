@@ -86,8 +86,12 @@ Huafei Huang is currently a PhD student at STEM, University of South Australia (
 <!-- - The Honorable Mention in the MCM/ICM (2019) -->
 <!-- - The First Prize in The Blue Bridge Cup Competition (Shanxi Province) (2019) -->
 
+<span class='anchor' id='-invited-reviewer'></span>
+
 # Invited Reviewer
-- IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+  - Conferences: AAAI, KDD, WWW/TheWebConf, etc.
+  - Journals: TNNLS, TITS, ESWA, EAAI, TIST, IJCS, HSSCOMMS, Neurocomputing, Frontiers in Big Data, Heliyon, etc.
+<!-- - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - IEEE Transactions on Intelligent Transportation Systems (TITS)
 - ACM Transactions on Intelligent Systems and Technology (TIST)
 - Humanities and Social Sciences Communications (HSSCOMMS)
@@ -99,13 +103,14 @@ Huafei Huang is currently a PhD student at STEM, University of South Australia (
 - Heliyon 
 - ACM Web Conference (WWW/TheWebConf)
 - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
-- AAAI Conference on Artificial Intelligence (AAAI)
+- AAAI Conference on Artificial Intelligence (AAAI) -->
 
+<!-- <span class='anchor' id='-conference-talk'></span>
 
 # Conference Talks
 - "Knowledge Graph Completion via Subgraph Topology Augmentation", The 11th Chinese National Conference on Social Media Processing (SMP2023), Hefei, China, Nov. 23-26, 2023. 
 - "Mining Implicit Relations Among Image Channels for Few-Shot Semantic Segmentation", The 19th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC2022), Haikou, China, Dec. 15-18, 2022. 
-- "Network Representation Learning Based on High-order Structure and Attention Mechanism", The 6th China National Conference on Big Data & Social Computing (BDSC2021), Chongqing, China, Dec. 9-11, 2021.
+- "Network Representation Learning Based on High-order Structure and Attention Mechanism", The 6th China National Conference on Big Data & Social Computing (BDSC2021), Chongqing, China, Dec. 9-11, 2021. -->
 
 <span class='anchor' id='-publications'></span>
 
@@ -118,7 +123,7 @@ Huafei Huang is currently a PhD student at STEM, University of South Australia (
 # Publications 
 
 <ul style="list-style-type: circle;">
-
+  <li>Shoulin Yin, Liguo Wang, Tao Chen, <u><strong>Huafei Huang</strong></u>, Jing Gao, Jianing Zhang, Meng Liu, Peng Li, and Chengpei Xu. 2025. LKAFormer: A Lightweight Kolmogorov-Arnold Transformer Model for Image Semantic Segmentation. <strong>ACM Transactions on Intelligent Systems and Technology.</strong>, DOI: 10.1145/3759254.  <a href="https://dl.acm.org/doi/10.1145/3759254">(PDF)</a> </li>
   <li>Ciyuan Peng, <u><strong>Huafei Huang</strong></u>, Tianqi Guo, Chengxuan Meng, Jingjing Zhou, Wenhong Zhao, Ruwan Tennakoon, and Feng Xia. 2025. Joint Structural-Functional Brain Graph Transformer. <strong>ACM Transactions on Intelligent Systems and Technology.</strong> 16(3): 1-15, DOI: 10.1145/3729243.  <a href="https://dl.acm.org/doi/10.1145/3729243">(PDF)</a> </li>
   <li>Shuo Yu, Zhuoyang Han, Feng Ding, <u><strong>Huafei Huang</strong></u>, Renqiang Luo, Guoqing Han, and Feng Xia. 2025. Multi-type Social Patterns-based Graph Learning. <strong>Neurocomputing.</strong> 637: 130039, DOI: 10.1016/j.neucom.2025.130039.  <a href="https://www.sciencedirect.com/science/article/pii/S0925231225007118">(PDF)</a> </li>
   <li>Renqiang Luo, <u><strong>Huafei Huang</strong></u>, Ivan Lee, Chengpei Xu, Jianzhong Qi, and Feng Xia. 2025.  FairGP: A Scalable and Fair Graph Transformer Using Graph Partitioning. <strong>Proceedings of the AAAI Conference on Artificial Intelligence (AAAI).</strong> 12319-12327, DOI: 10.1609/aaai.v39i12.33342 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33342">(PDF)</a> <a href="https://github.com/LuoRenqiang/FairGP">(CODE)</a></li>
