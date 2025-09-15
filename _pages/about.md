@@ -22,7 +22,7 @@ redirect_from:
 
 # About Me
 
-Huafei Huang is currently a PhD student at STEM, University of South Australia (UniSA). Before that, he received a BSc. degree in Internet of Things Engineering from North University of China (NUC), in 2020, and the MSc degree in Software Engineering from Dalian University of Technology (DUT), in 2023. He received <a href='https://scholar.google.com/citations?user=_PlsOz8AAAAJ'><strong><span id='total_cit'>138</span></strong></a> citations to his works.
+Huafei Huang is currently a PhD student at STEM, University of South Australia (UniSA). Before that, he received a BSc. degree in Internet of Things Engineering from North University of China (NUC), in 2020, and the MSc degree in Software Engineering from Dalian University of Technology (DUT), in 2023. He received <a href='https://scholar.google.com/citations?user=_PlsOz8AAAAJ'><strong><span id='total_cit'>156</span></strong></a> citations to his works.
 <!-- Huafei Huang is the Assistant Research Fellow in DUT Artificial Intelligence Institute.  -->
 <!-- He received the BSc degree in Internet of Things (IoT) Engineering from the North University of China (NUC), Taiyuan, China, in 2020, and reveived the MSc degree in Software Engineering from Dalian University of Technology (DUT), Dalian, China. -->
 <!-- He received the BSc. degree in Internet of Things Engineering from North University of China, China, in 2020, and the MSc degree in Software Engineering from Dalian University of Technology (DUT), China, in 2023.  -->
@@ -86,11 +86,15 @@ Huafei Huang is currently a PhD student at STEM, University of South Australia (
 <!-- - The Honorable Mention in the MCM/ICM (2019) -->
 <!-- - The First Prize in The Blue Bridge Cup Competition (Shanxi Province) (2019) -->
 
-<span class='anchor' id='-invited-reviewer'></span>
+<span class='anchor' id='-services'></span>
 
-# Invited Reviewer
+# Services
+### Invited Reviewer
+
   - Conferences: AAAI, KDD, WWW/TheWebConf, etc.
   - Journals: TNNLS, TITS, ESWA, EAAI, TIST, IJCS, HSSCOMMS, Neurocomputing, Frontiers in Big Data, Heliyon, etc.
+### PC Member
+  - AAAI 2026, WWW 2026
  <!-- - IEEE Transactions on Neural Networks and Learning Systems (TNNLS) -->
 <!-- - IEEE Transactions on Intelligent Transportation Systems (TITS) -->
 <!-- - ACM Transactions on Intelligent Systems and Technology (TIST) -->
