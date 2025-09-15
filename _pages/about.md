@@ -73,15 +73,15 @@ Huafei Huang is currently a PhD student at STEM, University of South Australia (
 - Data Mining, Anomaly Detection, Knowledge Graphs, Fairness AI
 - Graph Learning, Large Language Models, Medical AI
 
-<span class='anchor' id='-honors-and-awards'></span>
+<!-- <span class='anchor' id='-honors-and-awards'></span> -->
 
-# Honors and Awards
+<!-- # Honors and Awards
 
 - Most Popular Article Award, CAAI National Conference on Big Data & Social Computing (BDSC2023)
 - Outstanding Graduate of the College, North University of China (2020)
 - The Second-class All-rounder Scholarship (2019,2020)
 - National Encouragement Scholarship (Sponsored by the Ministry of Education) (2018,2019)
-- The First-class All-rounder Scholarship (2017,2018)
+- The First-class All-rounder Scholarship (2017,2018) -->
 
 <!-- - The Honorable Mention in the MCM/ICM (2019) -->
 <!-- - The First Prize in The Blue Bridge Cup Competition (Shanxi Province) (2019) -->
@@ -89,12 +89,9 @@ Huafei Huang is currently a PhD student at STEM, University of South Australia (
 <span class='anchor' id='-services'></span>
 
 # Services
-### Invited Reviewer
+  - Invited reviewer: AAAI, KDD, WWW/TheWebConf, TNNLS, TITS, ESWA, EAAI, TIST, IJCS, HSSCOMMS, Neurocomputing, Frontiers in Big Data, Heliyon, etc.
+  - PC Member: AAAI 2026, WWW 2026
 
-  - Conferences: AAAI, KDD, WWW/TheWebConf, etc.
-  - Journals: TNNLS, TITS, ESWA, EAAI, TIST, IJCS, HSSCOMMS, Neurocomputing, Frontiers in Big Data, Heliyon, etc.
-### PC Member
-  - AAAI 2026, WWW 2026
  <!-- - IEEE Transactions on Neural Networks and Learning Systems (TNNLS) -->
 <!-- - IEEE Transactions on Intelligent Transportation Systems (TITS) -->
 <!-- - ACM Transactions on Intelligent Systems and Technology (TIST) -->
