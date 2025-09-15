@@ -115,12 +115,6 @@ Huafei Huang is currently a PhD student at STEM, University of South Australia (
 
 <span class='anchor' id='-publications'></span>
 
-# Preprints
-<ul style="list-style-type: circle;">
-  <li>Renqiang Luo, Ziqi Xu, Xikun Zhang, Qing Qing, <u><strong>Huafei Huang</strong></u>, Enyan Dai, Zhe Wang, and Bo Yang. 2025. Fairness in Graph Learning Augmented with Machine Learning: A Survey. <strong>arXiv</strong> arXiv preprint arXiv: 2504.21296, DOI: 10.48550/arXiv.2504.21296.  <a href="https://arxiv.org/abs/2504.21296">(PDF)</a> </li>
-</ul>
-
-
 # Publications 
 
 <ul style="list-style-type: circle;">
@@ -137,4 +131,10 @@ Huafei Huang is currently a PhD student at STEM, University of South Australia (
   <li>Xu Yuan, Ying Yang, <u><strong>Huafei Huang</strong></u>, Shuo Yu, and Lili Cong. 2022. Mining Implicit Relations Among Image Channels for Few-Shot Semantic Segmentation. <strong>In 2022 IEEE International Conference on Ubiquitous Intelligence and Computing (UIC)</strong>. 275-284, DOI: 10.1109/SmartWorld-UIC-ATC-ScalCom-DigitalTwin-PriComp-Metaverse56740.2022.00062. <a href="https://ieeexplore.ieee.org/document/10189692/">(PDF)</a> </li>
   <li>Shuo Yu, <u><strong>Huafei Huang</strong></u>, Minh N. Dao, and Feng Xia. 2022. Graph Augmentation Learning. 2022. <strong>In Companion Proceedings of the Web Conference 2022  (WWW workshop)</strong>. 1063–1072. DOI: 10.1145/3487553.3524718 <a href="https://dl.acm.org/doi/10.1145/3487553.3524718">(PDF)</a> <a href="https://github.com/yushuowiki/awesome-GAL">(CODE)</a></li>
   <li>Xu Yuan, Na Zhou, Shuo Yu, <u><strong>Huafei Huang</strong></u>, Zhikui Chen, and Feng Xia. 2021. Higher-order Structure Based Anomaly Detection on Attributed Networks. <strong>In 2021 IEEE International Conference on Big Data (IEEE BigData)</strong>. 2691–2700. DOI: 10.1109/BigData52589.2021.9671990. <a href="https://ieeexplore.ieee.org/document/9671990">(PDF)</a> <a href="https://github.com/yushuowiki/GUIDE_pytorch">(CODE)</a> </li>
+</ul>
+
+# Preprints
+
+<ul style="list-style-type: circle;">
+  <li>Renqiang Luo, Ziqi Xu, Xikun Zhang, Qing Qing, <u><strong>Huafei Huang</strong></u>, Enyan Dai, Zhe Wang, and Bo Yang. 2025. Fairness in Graph Learning Augmented with Machine Learning: A Survey. <strong>arXiv</strong> arXiv preprint arXiv: 2504.21296, DOI: 10.48550/arXiv.2504.21296.  <a href="https://arxiv.org/abs/2504.21296">(PDF)</a> </li>
 </ul>
