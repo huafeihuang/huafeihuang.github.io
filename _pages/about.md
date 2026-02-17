@@ -22,7 +22,8 @@ redirect_from:
 
 # About Me
 
-Huafei Huang is currently a PhD student at School of Computer Science and Information Technology, Adelaide University. Before that, he received a BSc. degree in Internet of Things Engineering from North University of China (NUC), in 2020, and the MSc degree in Software Engineering from Dalian University of Technology (DUT), in 2023. He received <a href='https://scholar.google.com/citations?user=_PlsOz8AAAAJ'><strong><span id='total_cit'>206</span></strong></a> citations to his works.
+Huafei Huang is currently a PhD student at School of Computer Science and Information Technology, Adelaide University. Before that, he received a BSc. degree from North University of China (NUC), in 2020, and the MSc degree from Dalian University of Technology (DUT), in 2023. He received <a href='https://scholar.google.com/citations?user=_PlsOz8AAAAJ'><strong><span id='total_cit'>206</span></strong></a> citations to his works.
+<!-- Huafei Huang is currently a PhD student at School of Computer Science and Information Technology, Adelaide University. Before that, he received a BSc. degree in Internet of Things Engineering from North University of China (NUC), in 2020, and the MSc degree in Software Engineering from Dalian University of Technology (DUT), in 2023. He received <a href='https://scholar.google.com/citations?user=_PlsOz8AAAAJ'><strong><span id='total_cit'>206</span></strong></a> citations to his works. -->
 <!-- Huafei Huang is the Assistant Research Fellow in DUT Artificial Intelligence Institute.  -->
 <!-- He received the BSc degree in Internet of Things (IoT) Engineering from the North University of China (NUC), Taiyuan, China, in 2020, and reveived the MSc degree in Software Engineering from Dalian University of Technology (DUT), Dalian, China. -->
 <!-- He received the BSc. degree in Internet of Things Engineering from North University of China, China, in 2020, and the MSc degree in Software Engineering from Dalian University of Technology (DUT), China, in 2023.  -->
@@ -89,7 +90,7 @@ Huafei Huang is currently a PhD student at School of Computer Science and Inform
 <span class='anchor' id='-services'></span>
 
 # Services
-  - Invited reviewer: AAAI, KDD, WWW/TheWebConf, TNNLS, TITS, ESWA, EAAI, TIST, IJCS, HSSCOMMS, Neurocomputing, Frontiers in Big Data, Heliyon, etc.
+  - Invited reviewer: AAAI, KDD, WWW/TheWebConf, IJCNN, TNNLS, TMM, TITS, ESWA, EAAI, TIST, IJCS, Informaiton Sciences, HSSCOMMS, Neurocomputing, Frontiers in Big Data, Heliyon, etc.
   - PC Member: AAAI 2026, WWW 2026
 
  <!-- - IEEE Transactions on Neural Networks and Learning Systems (TNNLS) -->
