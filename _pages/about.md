@@ -90,7 +90,7 @@ Huafei Huang is currently a PhD student at School of Computer Science and Inform
 <span class='anchor' id='-services'></span>
 
 # Services
-  - Invited reviewer: Conf: AAAI, KDD, WWW/TheWebConf, IJCNN. Journal: TNNLS, TMM, TITS, TKDD, TCSS, ESWA, EAAI, TIST, IJCS, Informaiton Sciences, ISPRS Journal of Photogrammetry and Remote Sensing, HSSCOMMS, Neurocomputing, Frontiers in Big Data, Heliyon.
+  - Invited reviewer: Conf: AAAI, KDD, WWW/TheWebConf, IJCNN. Journal: TNNLS, TMM, TITS, TKDD, TCSS, ESWA, EAAI, TIST, IJCS, Informaiton Sciences, ISPRS Journal of Photogrammetry and Remote Sensing, Information Processing and Management, HSSCOMMS, Neurocomputing, Frontiers in Big Data, Heliyon.
   - PC Member: AAAI 2026, WWW 2026
 
  <!-- - IEEE Transactions on Neural Networks and Learning Systems (TNNLS) -->
