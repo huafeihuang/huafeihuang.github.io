@@ -90,8 +90,8 @@ Huafei Huang is currently a PhD student at School of Computer Science and Inform
 <span class='anchor' id='-services'></span>
 
 # Services
-  - Invited reviewer: Conf: AAAI, KDD, WWW/TheWebConf, IJCNN. Journal: TNNLS, TMM, TITS, TKDD, TCSS, ESWA, EAAI, TIST, IJCS, Informaiton Sciences, ISPRS Journal of Photogrammetry and Remote Sensing, Information Processing and Management, HSSCOMMS, Neurocomputing, Frontiers in Big Data, Heliyon.
-  - PC Member: AAAI 2026, WWW 2026
+  - Invited reviewer: Conf: AAAI, KDD, WWW/TheWebConf, IJCNN. Journal: TNNLS, TMM, TITS, TKDD, TCSS, ESWA, EAAI, TIST, IJCS, Knowledge-based systems, Informaiton Sciences, ISPRS Journal of Photogrammetry and Remote Sensing, Information Processing and Management, Applied Soft Computing, HSSCOMMS, Neurocomputing, Scientific Reports, Frontiers in Big Data, Heliyon.
+  - PC Member: AAAI (2026 2027), WWW 2026
 
  <!-- - IEEE Transactions on Neural Networks and Learning Systems (TNNLS) -->
 <!-- - IEEE Transactions on Intelligent Transportation Systems (TITS) -->
@@ -120,7 +120,7 @@ Huafei Huang is currently a PhD student at School of Computer Science and Inform
 
 <ul style="list-style-type: circle;">
   <li>Renqiang Luo, <u><strong>Huafei Huang</strong></u>, Shuo Yu, Fengqi Yu, Feng Xia, Sajal K. Das, and Chengqi Zhang. 2026. Utility-Preserving Federated Graph Learning with Dual-Perspective Fairness. <strong>IEEE Transactions on Pattern Analysis and Machine Intelligence.</strong> DOI: 10.1109/TPAMI.2026.3689213. <a href="https://ieeexplore.ieee.org/document/11501798">(PDF)</a></li>
-  <li>Qing Qing, <u><strong>Huafei Huang</strong></u>, Mingliang Hou, Renqiang Luo, and Mohsen Guizani. 2026. NeiGAD: Augmenting Graph Anomaly Detection via Spectral Neighbor Information. <strong>Proceedings of the International Wireless Communications and Mobile Computing Conference (IWCMC).</strong> <a href="https://arxiv.org/abs/2603.28300">(arXiv)</a> <a href="https://github.com/huafeihuang/NeiGAD">(CODE)</a></li>
+  <li>Qing Qing, <u><strong>Huafei Huang</strong></u>, Mingliang Hou, Renqiang Luo, and Mohsen Guizani. 2026. NeiGAD: Augmenting Graph Anomaly Detection via Spectral Neighbor Information. <strong>Proceedings of the International Wireless Communications and Mobile Computing Conference (IWCMC).</strong> DOI: 10.1109/IWCMC69287.2026.11580022. <a href="https://ieeexplore.ieee.org/document/11580022">(PDF)</a> <a href="https://github.com/huafeihuang/NeiGAD">(CODE)</a></li>
   <li>Renqiang Luo, <u><strong>Huafei Huang</strong></u>, Tao Tang, Jing Ren, Ziqi Xu, Mingliang Hou, Enyan Dai, and Feng Xia. 2026.  FairGE: Fairness-aware Graph Encoding in Incomplete Social Networks. <strong>Proceedings of the Web Conference (WWW).</strong> DOI: 10.1145/3774904. <a href="https://dl.acm.org/doi/10.1145/3774904.3792169">(PDF)</a> <a href="https://github.com/LuoRenqiang/FairGE">(CODE)</a></li>
   <li>Renqiang Luo, Yongshuai Yang, <u><strong>Huafei Huang</strong></u>, Qing Qing, Mingliang Hou, Ziqi Xu, Yi Yu, Jingjing Zhou, and Feng Xia. 2026.  FairGU: Fairness-aware Graph Unlearning in Social Networks. <strong>Proceedings of the Web Conference (WWW).</strong>  DOI: 10.1145/3774904.3793004. <a href="https://dl.acm.org/doi/10.1145/3774904.3793004">(PDF)</a> <a href="https://github.com/LuoRenqiang/FairGU">(CODE)</a></li>
   <li>Shoulin Yin, Liguo Wang, Tao Chen, <u><strong>Huafei Huang</strong></u>, Jing Gao, Jianing Zhang, Meng Liu, Peng Li, and Chengpei Xu. 2025. LKAFormer: A Lightweight Kolmogorov-Arnold Transformer Model for Image Semantic Segmentation. <strong>ACM Transactions on Intelligent Systems and Technology.</strong>, DOI: 10.1145/3759254.  <a href="https://dl.acm.org/doi/10.1145/3759254">(PDF)</a> </li>
