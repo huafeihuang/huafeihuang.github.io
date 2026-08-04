@@ -22,7 +22,7 @@ redirect_from:
 
 # About Me
 
-Huafei Huang is currently a PhD student at School of Computer Science and Information Technology, Adelaide University. Before that, he received a BSc. degree from North University of China (NUC), in 2020, and the MSc degree from Dalian University of Technology (DUT), in 2023. He received <a href='https://scholar.google.com/citations?user=_PlsOz8AAAAJ'><strong><span id='total_cit'>206</span></strong></a> citations to his works.
+Huafei Huang is currently a PhD student at School of Computer Science and Information Technology, Adelaide University. Before that, he received a BSc. degree from North University of China (NUC), in 2020, and the MSc degree from Dalian University of Technology (DUT), in 2023. He received <a href='https://scholar.google.com/citations?user=_PlsOz8AAAAJ'><strong><span id='total_cit'>310</span></strong></a> citations to his works.
 <!-- Huafei Huang is currently a PhD student at School of Computer Science and Information Technology, Adelaide University. Before that, he received a BSc. degree in Internet of Things Engineering from North University of China (NUC), in 2020, and the MSc degree in Software Engineering from Dalian University of Technology (DUT), in 2023. He received <a href='https://scholar.google.com/citations?user=_PlsOz8AAAAJ'><strong><span id='total_cit'>206</span></strong></a> citations to his works. -->
 <!-- Huafei Huang is the Assistant Research Fellow in DUT Artificial Intelligence Institute.  -->
 <!-- He received the BSc degree in Internet of Things (IoT) Engineering from the North University of China (NUC), Taiyuan, China, in 2020, and reveived the MSc degree in Software Engineering from Dalian University of Technology (DUT), Dalian, China. -->
@@ -90,7 +90,7 @@ Huafei Huang is currently a PhD student at School of Computer Science and Inform
 <span class='anchor' id='-services'></span>
 
 # Services
-  - Invited reviewer: Conf: AAAI, KDD, WWW/TheWebConf, IJCNN. Journal: TNNLS, TMM, TITS, TKDD, TCSS, ESWA, EAAI, TIST, IJCS, Knowledge-based systems, Informaiton Sciences, ISPRS Journal of Photogrammetry and Remote Sensing, Information Processing and Management, Applied Soft Computing, HSSCOMMS, Neurocomputing, Scientific Reports, Frontiers in Big Data, Heliyon.
+  - Invited reviewer: Conf: AAAI, KDD, WWW/TheWebConf, IJCNN. Journal: TNNLS, TMM, TITS, TKDD, TCSS, ESWA, EAAI, TIST, IJCS, Information Fusion, Knowledge-based systems, Informaiton Sciences, Pattern Recognition, ISPRS Journal of Photogrammetry and Remote Sensing, Information Processing and Management, Applied Soft Computing, HSSCOMMS, Neurocomputing, Scientific Reports, Frontiers in Big Data, Heliyon.
   - PC Member: AAAI (2026 2027), WWW 2026
 
  <!-- - IEEE Transactions on Neural Networks and Learning Systems (TNNLS) -->
@@ -119,6 +119,7 @@ Huafei Huang is currently a PhD student at School of Computer Science and Inform
 # Publications 
 
 <ul style="list-style-type: circle;">
+  <li>Renqiang Luo, <u><strong>Huafei Huang</strong></u>, Ziqi Xu, Xikun Zhang, Enyan Dai, Bo Yang, and Feng Xia. 2026. Fairness in Augmented Graph Learning: A Survey. <strong>IEEE Transactions on Knowledge and Data Engineering</strong> arXiv preprint arXiv: 2504.21296, DOI: 10.1109/TKDE.2026.3719932.  <a href="https://arxiv.org/abs/2504.21296">(arXiv)</a> </li>
   <li>Renqiang Luo, <u><strong>Huafei Huang</strong></u>, Shuo Yu, Fengqi Yu, Feng Xia, Sajal K. Das, and Chengqi Zhang. 2026. Utility-Preserving Federated Graph Learning with Dual-Perspective Fairness. <strong>IEEE Transactions on Pattern Analysis and Machine Intelligence.</strong> DOI: 10.1109/TPAMI.2026.3689213. <a href="https://ieeexplore.ieee.org/document/11501798">(PDF)</a></li>
   <li>Qing Qing, <u><strong>Huafei Huang</strong></u>, Mingliang Hou, Renqiang Luo, and Mohsen Guizani. 2026. NeiGAD: Augmenting Graph Anomaly Detection via Spectral Neighbor Information. <strong>Proceedings of the International Wireless Communications and Mobile Computing Conference (IWCMC).</strong> DOI: 10.1109/IWCMC69287.2026.11580022. <a href="https://ieeexplore.ieee.org/document/11580022">(PDF)</a> <a href="https://github.com/huafeihuang/NeiGAD">(CODE)</a></li>
   <li>Renqiang Luo, <u><strong>Huafei Huang</strong></u>, Tao Tang, Jing Ren, Ziqi Xu, Mingliang Hou, Enyan Dai, and Feng Xia. 2026.  FairGE: Fairness-aware Graph Encoding in Incomplete Social Networks. <strong>Proceedings of the Web Conference (WWW).</strong> DOI: 10.1145/3774904. <a href="https://dl.acm.org/doi/10.1145/3774904.3792169">(PDF)</a> <a href="https://github.com/LuoRenqiang/FairGE">(CODE)</a></li>
@@ -141,5 +142,5 @@ Huafei Huang is currently a PhD student at School of Computer Science and Inform
 # Preprints
 
 <ul style="list-style-type: circle;">
-  <li>Renqiang Luo, Ziqi Xu, Xikun Zhang, Qing Qing, <u><strong>Huafei Huang</strong></u>, Enyan Dai, Zhe Wang, and Bo Yang. 2025. Fairness in Graph Learning Augmented with Machine Learning: A Survey. <strong>arXiv</strong> arXiv preprint arXiv: 2504.21296, DOI: 10.48550/arXiv.2504.21296.  <a href="https://arxiv.org/abs/2504.21296">(PDF)</a> </li>
+  
 </ul>
