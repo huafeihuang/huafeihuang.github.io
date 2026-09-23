@@ -90,7 +90,7 @@ Huafei Huang is currently a PhD student at School of Computer Science and Inform
 <span class='anchor' id='-services'></span>
 
 # Services
-  - Invited reviewer: Conf: AAAI, KDD, WWW/TheWebConf, IJCNN. Journal: TNNLS, TMM, TITS, TKDD, TCSS, ESWA, EAAI, TIST, IJCS, Information Fusion, Knowledge-based systems, Informaiton Sciences, Pattern Recognition, ISPRS Journal of Photogrammetry and Remote Sensing, Information Processing and Management, Applied Soft Computing, HSSCOMMS, Neurocomputing, Scientific Reports, Frontiers in Big Data, Heliyon.
+  - Invited reviewer: Conf: NeurIPS, AAAI, KDD, WWW/TheWebConf, IJCNN. Journal: TNNLS, TMM, TITS, TKDD, TCSS, ESWA, EAAI, TIST, IJCS, Information Fusion, Knowledge-based systems, Informaiton Sciences, Pattern Recognition, ISPRS Journal of Photogrammetry and Remote Sensing, Information Processing and Management, Applied Soft Computing, HSSCOMMS, Neurocomputing, Scientific Reports, Frontiers in Big Data, Heliyon.
   - PC Member: AAAI (2026 2027), WWW 2026
 
  <!-- - IEEE Transactions on Neural Networks and Learning Systems (TNNLS) -->
@@ -120,6 +120,7 @@ Huafei Huang is currently a PhD student at School of Computer Science and Inform
 
 <ul style="list-style-type: circle;">
   <li>Renqiang Luo, <u><strong>Huafei Huang</strong></u>, Ziqi Xu, Xikun Zhang, Enyan Dai, Bo Yang, and Feng Xia. 2026. Fairness in Augmented Graph Learning: A Survey. <strong>IEEE Transactions on Knowledge and Data Engineering</strong>, DOI: 10.1109/TKDE.2026.3719932.  <a href="https://ieeexplore.ieee.org/document/11640954">(PDF)</a> </li>
+  <li>Shuo Yu, Yupeng Gao, Jing Ren, Jiaying Liu, <u><strong>Huafei Huang</strong></u>, Xin Ye, Tong Zhang, Feng Ding, Xiuzhen Zhang, and Feng Xia. 2026. Semantic-Aware Heterogeneous Graph Learning for Fake News Detection. <strong>IEEE Transactions on Neural Networks and Learning Systems</strong>, DOI: 10.1109/TNNLS.2026.3732486.  <a href="https://ieeexplore.ieee.org/document/11698826">(PDF)</a> </li>
   <li>Renqiang Luo, <u><strong>Huafei Huang</strong></u>, Shuo Yu, Fengqi Yu, Feng Xia, Sajal K. Das, and Chengqi Zhang. 2026. Utility-Preserving Federated Graph Learning with Dual-Perspective Fairness. <strong>IEEE Transactions on Pattern Analysis and Machine Intelligence.</strong> 48(9): 11077-11093, DOI: 10.1109/TPAMI.2026.3689213. <a href="https://ieeexplore.ieee.org/document/11501798">(PDF)</a></li>
   <li>Qing Qing, <u><strong>Huafei Huang</strong></u>, Mingliang Hou, Renqiang Luo, and Mohsen Guizani. 2026. NeiGAD: Augmenting Graph Anomaly Detection via Spectral Neighbor Information. <strong>Proceedings of the International Wireless Communications and Mobile Computing Conference (IWCMC).</strong> DOI: 10.1109/IWCMC69287.2026.11580022. <a href="https://ieeexplore.ieee.org/document/11580022">(PDF)</a> <a href="https://github.com/huafeihuang/NeiGAD">(CODE)</a></li>
   <li>Renqiang Luo, <u><strong>Huafei Huang</strong></u>, Tao Tang, Jing Ren, Ziqi Xu, Mingliang Hou, Enyan Dai, and Feng Xia. 2026.  FairGE: Fairness-aware Graph Encoding in Incomplete Social Networks. <strong>Proceedings of the Web Conference (WWW).</strong> DOI: 10.1145/3774904. <a href="https://dl.acm.org/doi/10.1145/3774904.3792169">(PDF)</a> <a href="https://github.com/LuoRenqiang/FairGE">(CODE)</a></li>
